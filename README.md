@@ -1,1 +1,1 @@
-# quiz-2
+# Quiz App with HTML, CSS, and JavaScript
